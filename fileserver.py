@@ -63,7 +63,7 @@ while True:
 
     c.close()
     
-    if file_number == 100:
+    if file_number == 26:
         break
     
     print()
